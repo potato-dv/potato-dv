@@ -1,3 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Certifications | Courses</h1>
+    <table>
+        <tr>
+            <th>Certificate</th>
+            <th>Issued by</th>
+            <th>Date Issued</th>
+        </tr>
+        <tr>
+            <td><a href="#">Google Analytics</a></td>
+            <td>Great Learning Academy</td>
+            <td>September 14, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="#">Project Management</a></td>
+            <td>Great Learning Academy</td>
+            <td>September 9, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="#">TensorFlow Python</a></td>
+            <td>Great Learning Academy</td>
+            <td>August 28, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="#">Face Recognition in OpenCV</a></td>
+            <td>Great Learning Academy</td>
+            <td>August 21, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="#">Python for Data Science</a></td>
+            <td>Great Learning Academy</td>
+            <td>August 8, 2024</td>
+        </tr>
+    </table>
+</body>
+</html>
+
 # Welcome to My GitHub Profile!
 
 Hi there! I'm **Lauris-Jay T. Lorenzo**, an aspiring developer passionate about building innovative solutions and exploring new technologies.
