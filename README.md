@@ -7,7 +7,7 @@ Hi there! I'm **Lauris-Jay T. Lorenzo**, an aspiring developer passionate about 
 - **Name**: Lauris-Jay T. Lorenzo  
 - **Education**: Bachelor of Science in Information Technology (BSIT)  
 - **Certifications**:
-  - **SQL and Relational Databases 101**: https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2
+  - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2)
   - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FC6CD10C84C4273466F4C620304EA30FE9FD8CB33F3878A9382283A313827C9)
 
 - **Skillsets**:  
