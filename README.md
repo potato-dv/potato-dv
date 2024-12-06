@@ -7,7 +7,7 @@ Hi there! I'm **Lauris-Jay T. Lorenzo**, an aspiring developer passionate about 
 - **Name**: Lauris-Jay T. Lorenzo  
 - **Education**: Bachelor of Science in Information Technology (BSIT)  
 - **Certifications**:
-- *[(Add your certifications here if you have any)](https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2)*  
+- *https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2*  
 - **Skillsets**:  
   - **Front-End**: HTML, CSS  
   - **Programming Languages**: JavaScript, PHP  
