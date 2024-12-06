@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**potato-dv/potato-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Lauris-Jay T. Lorenzo**, an aspiring developer passionate about building innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Lauris-Jay T. Lorenzo  
+- **Education**: Bachelor of Science in Information Technology (BSIT)  
+- **Certifications**:
+- *(Add your certifications here if you have any)*  
+- **Skillsets**:  
+  - **Front-End**: HTML, CSS  
+  - **Programming Languages**: JavaScript, PHP  
+  - **Database**: SQL  
+  - **Tools & Platforms**: Git, VS Code, XAMPP  
+
+---
+
+🌟 **Let's Connect**  
+- **Email**: [laurisjay@gmail.com](mailto:laurisjay@gmail.com)  
+
+Feel free to explore my repositories and reach out for collaboration opportunities!
