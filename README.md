@@ -2,7 +2,8 @@
 **Name:** Lauris-Jay T. Lorenzo  
 **Education:** Bachelor of Science in Information Technology (BSIT)
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
+
 
 ## 🌐 Socials
 <div align="center">
