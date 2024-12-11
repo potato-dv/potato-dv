@@ -25,6 +25,7 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2)  
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FC6CD10C84C4273466F4C620304EA30FE9FD8CB33F3878A9382283A313827C9)  
 - [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FC6CD10C84C4273466F4C620304EA30EEF7242B2320E51B1FE85DCE94C98640)
+- [Become An OCI AI Foundations Associate (2024) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADA87FABA0A0982858F794EA713904E8F615BCA50D265CA57CC5CFE9960621AC)
 
 ## 💻 Tech Stack
 <div align="center">
