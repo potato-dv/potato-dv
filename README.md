@@ -15,4 +15,3 @@ Name: Lauris-Jay T. Lorenzo<br>Education: Bachelor of Science in Information Tec
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
