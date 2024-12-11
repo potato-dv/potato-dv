@@ -1,6 +1,7 @@
 # 💫 About Me
 **Name:** Lauris-Jay T. Lorenzo  
 **Education:** Bachelor of Science in Information Technology (BSIT)
+
 ---
 ## 🌐 Socials
 <div align="center">
