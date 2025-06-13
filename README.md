@@ -1,4 +1,6 @@
 # 💫 About Me
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY24yZml5bGZqdmN2ZnF3eHhmZWFqNWZocmw4bXVvamJ3a2I4N2oyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
+
 **Name:** Lauris-Jay T. Lorenzo  
 **Education:** Bachelor of Science in Information Technology (BSIT) **New Era University (2024) Present**
 
@@ -21,6 +23,8 @@
   </a>
 </div>
 
+<br clear="right"/>
+
 ## 🏅 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3250b7caab7340a5b924a29946aefad2)  
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FC6CD10C84C4273466F4C620304EA30FE9FD8CB33F3878A9382283A313827C9)  
@@ -30,6 +34,9 @@
 ## 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
