@@ -4,19 +4,19 @@
 
 ## 🌐 Socials
 <div align="center">
-  <a href="https://www.linkedin.com/in/laurislorenzo" target="_blank">
+  <a href="https://linkedin.com/in/lauris-jay-t-lorenzo-59354436a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:laurisjay@gmail.com" target="_blank">
+  <a href="mailto:laurisjay@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.facebook.com/lauris.ngango/" target="_blank">
+  <a href="https://www.facebook.com/lauris.ngango/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/lauriszss/" target="_blank">
+  <a href="https://www.instagram.com/lauriszss/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://telegram.me/laurislorenzo" target="_blank">
+  <a href="https://telegram.me/laurislorenzo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
@@ -41,12 +41,26 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potato-dv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato-dv&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato-dv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=potato-dv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato-dv&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=potato-dv&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potato-dv&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=potato-dv&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
