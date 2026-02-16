@@ -1,8 +1,7 @@
-# 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY24yZml5bGZqdmN2ZnF3eHhmZWFqNWZocmw4bXVvamJ3a2I4N2oyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 **Name:** Lauris-Jay T. Lorenzo  
-**Education:** Bachelor of Science in Information Technology (BSIT) **New Era University (2024) Present**
+**Education:** Bachelor of Science in Information Technology (BSIT) **New Era University (2026) Present**
 
 ## 🌐 Socials
 <div align="center">
@@ -48,11 +47,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=potato-dv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato-dv&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=potato-dv&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
@@ -61,9 +55,10 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical" alt="GitHub Trophies">
+</p>
+
 
 ---
 <div align="center">
