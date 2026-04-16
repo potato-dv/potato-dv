@@ -54,10 +54,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=potato-dv&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=potato-dv&theme=radical" alt="GitHub Trophies">
-</p>
+
 
 
 ---
