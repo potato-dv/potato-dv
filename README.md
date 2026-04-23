@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY24yZml5bGZqdmN2ZnF3eHhmZWFqNWZocmw4bXVvamJ3a2I4N2oyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 **Name:** Lauris-Jay T. Lorenzo  
-**Education:** Bachelor of Science in Information Technology (BSIT) **New Era University (2026) Present**
+**Education:** Bachelor of Science in Information Technology<br>
+**New Era University (2026) Present**
 
 ## 🌐 Socials
 <div align="center">
